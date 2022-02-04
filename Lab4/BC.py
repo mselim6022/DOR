@@ -3,4 +3,4 @@ from C import *
 def function_BC():
   print(“BC”)
 
-function_c()
+function_C()
