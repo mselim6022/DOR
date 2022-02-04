@@ -1,2 +1,2 @@
 def function_A(): 
-  print(“<Aymaan Newaz>”
+  print("Aymaan Newaz")
