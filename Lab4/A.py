@@ -1,2 +1,2 @@
 def function_A(): 
-  print(“<name Student A>”
+  print(“<Aymaan Newaz>”
