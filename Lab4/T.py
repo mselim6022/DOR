@@ -1,2 +1,2 @@
 def function_T(): 
-  print(“Group: <G6>”
+  print("Group: <G6>")
