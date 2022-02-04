@@ -1,6 +1,6 @@
-#Group Name: L1-G6
+# Group Name: L1-G6
 
-###Group members:
+### Group members:
 
 Ayman Newaz
 
