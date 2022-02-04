@@ -1,2 +1,2 @@
-def function_T(): 
-  print(“Group: <mygroup>”
+def function_A(): 
+  print(“<name Student A>”
