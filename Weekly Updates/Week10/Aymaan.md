@@ -1,7 +1,7 @@
 ## Weekly Individual Project Update Report
 ### Group number: L1-G6
 ### Student name: Aymaan Newaz
-### Week: _Week 9 from March 13th to 19th_
+### Week: _Week 10 from March 21st to 27th_
 ___
 1. **How many hours did you spend on the project this week? (0-10)**
 
