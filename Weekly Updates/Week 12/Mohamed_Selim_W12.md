@@ -1,7 +1,7 @@
 ## Weekly Individual Project Update Report
 ### Group number: L1-G6
 ### Student name: Mohamed Selim
-### Week: _Week 11 from April 4th to April 11th
+### Week: _Week 12 from April 4th to April 11th
 ___
 1. **How many hours did you spend on the project this week? (0-10)**
 
