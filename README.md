@@ -2,10 +2,10 @@
 
 # Project Idea: DOR
 # Group L1-G6
-## Marwan Zeyada, 101141759
-## Aymaan Newaz, 101165043
-## Mohamed Selim, 101138926
-## TA: Victoria Ajila
+### Marwan Zeyada
+### Aymaan Newaz
+### Mohamed Selim
+### TA: Victoria Ajila
 
 #### About:
 The DOR is an automated door controller that can be controlled with a click of a button. 
@@ -18,5 +18,12 @@ It comes in the form of an Android app that with multiple functionalities.
 The product consists of 2 motors, 3 Raspberry Pi's, 1 PiCam, 2 motor controllers that are moved using string that is connected to the motors. 
 
 #### Set-Up Instructions:
-
-
+Situate the components in its right place
+Turn on the motors and connect it to the motor controllers
+Download the DOR package
+Import it onto any Python runnable software
+Open PiCam.py once the physical setup is complete to determine a reference image for the door being closed
+Run the GUI.py to download the APK for an Android device (Version 9 and above is optimal)
+If the DC motor speed is too high, navigate to DCmotor.py and run it
+Once running you can adjust the speed to low, medium, or high. (Defaulted to high)
+Enjoy your very own DOR!
