@@ -5,7 +5,6 @@
 ### Marwan Zeyada
 ### Aymaan Newaz
 ### Mohamed Selim
-### TA: Victoria Ajila
 
 #### About:
 The DOR is an automated door controller that can be controlled with a click of a button. 
